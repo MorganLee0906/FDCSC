@@ -10,9 +10,15 @@
 
 [講義]()
 
-  * [test](https://google.com)
+  * [test](article/test.md)
 
-- - - -  
+- - - -
+
+[Online Judge]()
+
+  * [DDJ](http://203.64.191.163)
+  * [ZJ](https://zerojudge.tw)
+  * [Sprout OJ](https://neoj.sprout.tw)
 
 [參考資料]()
 
