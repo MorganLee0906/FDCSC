@@ -14,7 +14,7 @@
 - - - -  
 
 [參考資料]()
-  *[資訊之芽Python班](https://tw-csie-sprout.github.io/py2021/#!index.md)
+  * [資訊之芽Python班](https://tw-csie-sprout.github.io/py2021/#!index.md)
   
 - - - -
   
