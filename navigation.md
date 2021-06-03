@@ -12,8 +12,6 @@
 
   * [test](article/test.md)
 
-- - - -
-
 [Online Judge]()
 
   * [DDJ](http://203.64.191.163)
@@ -24,9 +22,6 @@
 
   * [資訊之芽Python班](https://tw-csie-sprout.github.io/py2021/#!index.md)
   
-- - - -
-  
-
 [gimmick:themechooser](選擇主題)
 
 [Github](https://github.com/MorganLee0906/test/)
