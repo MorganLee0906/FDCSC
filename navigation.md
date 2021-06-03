@@ -9,13 +9,14 @@
 [gimmick:theme](cyborg)
 
 [講義]()
-  *[test](google.com)
-  
+
+  * [test](https://google.com)
+- - - -  
 
 [參考資料]()
   *[資訊之芽Python班](https://tw-csie-sprout.github.io/py2021/#!index.md)
   
-
+- - - -
   
 
 [gimmick:themechooser](選擇主題)
