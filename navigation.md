@@ -10,10 +10,12 @@
 
 [講義]()
 
-  * [test](article/test.md)
+  * [Judge 使用教學](article/test.md)
+  * [Python 基礎語法](article/py_basic.md)
 
-[Online Judge]()
+[Judge]()
 
+  * [FDCSC Judge System](https://github.com/revival0728/FudanHighSchool-110CSC)
   * [DDJ](http://203.64.191.163)
   * [ZJ](https://zerojudge.tw)
   * [Sprout OJ](https://neoj.sprout.tw)
